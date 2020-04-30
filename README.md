@@ -1,4 +1,4 @@
-# This is to test creation and publishing packages in meteor JS
+# Testing the create and publish packages in meteorJS
 
 Currently there are no functionalities in package
 
@@ -31,4 +31,3 @@ Follow these steps to create and publish new package from separate directory
     ```
 9. Look for the package in your profile of "atmosphere" 
     my url looks like this : 
-    
