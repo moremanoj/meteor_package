@@ -21,8 +21,14 @@ Follow these steps to create and publish new package from separate directory
     name: 'moremanoj:demo-calculate',
     version: '0.0.1',
     summary: 'Testing Publish package',
-    git: '',
+    git: 'https://github.com/moremanoj/meteor_package.git',
     documentation: 'README.md'
     });
 ```
-8. 
+8. After pushing it to git one last step is to publish the package. 
+    ```
+    meteor publish --create 
+    ```
+9. Look for the package in your profile of "atmosphere" 
+    my url looks like this : 
+    
