@@ -29,6 +29,8 @@ Follow these steps to create and publish new package from separate directory
     ```
     meteor publish --create 
     ```
+
+    ** Note: readme should not be more than 1500 charaters and use --create only when want to publish for the first time.
 9. Look for the package in your profile of "atmosphere" 
     my url looks like this : 
 
