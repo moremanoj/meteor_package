@@ -31,3 +31,5 @@ Follow these steps to create and publish new package from separate directory
     ```
 9. Look for the package in your profile of "atmosphere" 
     my url looks like this : 
+
+    https://atmospherejs.meteor.com/moremanoj/demo-calculate
