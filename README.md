@@ -1,4 +1,4 @@
-## Testing the create and publish packages in meteorJS ##
+# Testing Create and Publish #
 
 Currently there are no functionalities in package
 
